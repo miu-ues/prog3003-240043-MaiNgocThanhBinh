@@ -52,4 +52,5 @@ public class bai1 {
             System.out.println(s);
         }
     }
+
 }
